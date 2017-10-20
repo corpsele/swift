@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "ac9463435879c7c5e0a35c96c63b27b0"
+build_time: [1508465626, 742386000]
+inputs:
+  "/Users/ucfadmin/Desktop/KTAppUpdate/KTAppUpdate/KTVersion.swift": [1508462931, 0]

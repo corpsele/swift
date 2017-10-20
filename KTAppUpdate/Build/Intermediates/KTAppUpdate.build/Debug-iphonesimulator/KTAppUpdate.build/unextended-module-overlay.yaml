@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ucfadmin/Desktop/KTAppUpdate/Build/Products/Debug-iphonesimulator/KTAppUpdate.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ucfadmin/Desktop/KTAppUpdate/Build/Intermediates/KTAppUpdate.build/Debug-iphonesimulator/KTAppUpdate.build/unextended-module.modulemap',
+    }]
+  }]
+}

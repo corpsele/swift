@@ -1,0 +1,10 @@
+framework module KTAppUpdate {
+  umbrella header "KTAppUpdate.h"
+
+  export *
+  module * { export * }
+}
+
+module KTAppUpdate.__Swift {
+    exclude header "KTAppUpdate-Swift.h"
+}

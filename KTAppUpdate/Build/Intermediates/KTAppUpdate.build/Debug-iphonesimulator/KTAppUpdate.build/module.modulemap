@@ -1,0 +1,11 @@
+framework module KTAppUpdate {
+  umbrella header "KTAppUpdate.h"
+
+  export *
+  module * { export * }
+}
+
+module KTAppUpdate.Swift {
+    header "KTAppUpdate-Swift.h"
+    requires objc
+}

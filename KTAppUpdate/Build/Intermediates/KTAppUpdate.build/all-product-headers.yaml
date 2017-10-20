@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Products/Debug-iphonesimulator/KTAppUpdate.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "KTAppUpdate-Swift.h",
+          'external-contents': "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Products/Debug-iphonesimulator/KTAppUpdate.framework/Headers/KTAppUpdate-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "KTAppUpdate.h",
+          'external-contents': "/Users/ucfadmin/Desktop/KTAppUpdate/KTAppUpdate/KTAppUpdate.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Products/Debug-iphonesimulator/KTAppUpdate.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Intermediates/KTAppUpdate.build/Debug-iphonesimulator/KTAppUpdate.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

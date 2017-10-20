@@ -1,0 +1,314 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "KTAppUpdateTests"
+provides-nominal:
+- "16KTAppUpdateTestsAAC"
+provides-member:
+- ["16KTAppUpdateTestsAAC", ""]
+provides-dynamic-lookup:
+- "initVersion"
+- "setUp"
+- "tearDown"
+- "testExample"
+- "testPerformanceExample"
+depends-top-level:
+- !private "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "KTAppUpdateTests"
+- !private "KTVersion"
+- !private "StringLiteralType"
+- !private "XCTAssert"
+- "XCTestCase"
+- !private "autoreleasepool"
+- !private "print"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "KTVersion"]
+- !private ["s7CVarArgP", "XCTAssert"]
+- !private ["s7CVarArgP", "autoreleasepool"]
+- !private ["s7CVarArgP", "compareVersion"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initVersion"]
+- !private ["s7CVarArgP", "measure"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "setUp"]
+- !private ["s7CVarArgP", "tearDown"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "KTVersion"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAssert"]
+- !private ["s28CustomDebugStringConvertibleP", "autoreleasepool"]
+- !private ["s28CustomDebugStringConvertibleP", "compareVersion"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initVersion"]
+- !private ["s28CustomDebugStringConvertibleP", "measure"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "setUp"]
+- !private ["s28CustomDebugStringConvertibleP", "tearDown"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "KTVersion"]
+- !private ["s23CustomStringConvertibleP", "XCTAssert"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "autoreleasepool"]
+- !private ["s23CustomStringConvertibleP", "compareVersion"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "initVersion"]
+- !private ["s23CustomStringConvertibleP", "measure"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "setUp"]
+- !private ["s23CustomStringConvertibleP", "tearDown"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "KTVersion"]
+- !private ["s9EquatableP", "XCTAssert"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "autoreleasepool"]
+- !private ["s9EquatableP", "compareVersion"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "initVersion"]
+- !private ["s9EquatableP", "measure"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "setUp"]
+- !private ["s9EquatableP", "tearDown"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "KTVersion"]
+- !private ["s8HashableP", "XCTAssert"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "autoreleasepool"]
+- !private ["s8HashableP", "compareVersion"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "initVersion"]
+- !private ["s8HashableP", "measure"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "setUp"]
+- !private ["s8HashableP", "tearDown"]
+- ["s8HashableP", ""]
+- ["16KTAppUpdateTestsAAC", "Bool"]
+- !private ["16KTAppUpdateTestsAAC", "KTVersion"]
+- !private ["16KTAppUpdateTestsAAC", "XCTAssert"]
+- !private ["16KTAppUpdateTestsAAC", "autoreleasepool"]
+- ["16KTAppUpdateTestsAAC", "deinit"]
+- ["16KTAppUpdateTestsAAC", "init"]
+- ["16KTAppUpdateTestsAAC", "initVersion"]
+- !private ["16KTAppUpdateTestsAAC", "measure"]
+- !private ["16KTAppUpdateTestsAAC", "print"]
+- ["16KTAppUpdateTestsAAC", "setUp"]
+- ["16KTAppUpdateTestsAAC", "tearDown"]
+- ["16KTAppUpdateTestsAAC", "testExample"]
+- ["16KTAppUpdateTestsAAC", "testPerformanceExample"]
+- !private ["11KTAppUpdate9KTVersionC", "compareVersion"]
+- !private ["11KTAppUpdate9KTVersionC", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "KTVersion"]
+- !private ["So8NSObjectC", "XCTAssert"]
+- !private ["So8NSObjectC", "autoreleasepool"]
+- !private ["So8NSObjectC", "compareVersion"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "initVersion"]
+- !private ["So8NSObjectC", "measure"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "setUp"]
+- ["So8NSObjectC", "tearDown"]
+- ["So8NSObjectC", "testExample"]
+- ["So8NSObjectC", "testPerformanceExample"]
+- !private ["So16NSObjectProtocolP", "KTVersion"]
+- !private ["So16NSObjectProtocolP", "XCTAssert"]
+- !private ["So16NSObjectProtocolP", "autoreleasepool"]
+- !private ["So16NSObjectProtocolP", "compareVersion"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "initVersion"]
+- !private ["So16NSObjectProtocolP", "measure"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "setUp"]
+- !private ["So16NSObjectProtocolP", "tearDown"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So11XCTActivityP", "KTVersion"]
+- !private ["So11XCTActivityP", "XCTAssert"]
+- !private ["So11XCTActivityP", "autoreleasepool"]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So11XCTActivityP", "initVersion"]
+- !private ["So11XCTActivityP", "measure"]
+- !private ["So11XCTActivityP", "print"]
+- !private ["So11XCTActivityP", "setUp"]
+- !private ["So11XCTActivityP", "tearDown"]
+- ["So11XCTActivityP", ""]
+- !private ["So17XCTWaiterDelegateP", "KTVersion"]
+- !private ["So17XCTWaiterDelegateP", "XCTAssert"]
+- !private ["So17XCTWaiterDelegateP", "autoreleasepool"]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So17XCTWaiterDelegateP", "initVersion"]
+- !private ["So17XCTWaiterDelegateP", "measure"]
+- !private ["So17XCTWaiterDelegateP", "print"]
+- !private ["So17XCTWaiterDelegateP", "setUp"]
+- !private ["So17XCTWaiterDelegateP", "tearDown"]
+- ["So17XCTWaiterDelegateP", ""]
+- ["So6XCTestC", "Bool"]
+- !private ["So6XCTestC", "KTVersion"]
+- !private ["So6XCTestC", "XCTAssert"]
+- !private ["So6XCTestC", "autoreleasepool"]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "initVersion"]
+- !private ["So6XCTestC", "measure"]
+- !private ["So6XCTestC", "print"]
+- ["So6XCTestC", "setUp"]
+- ["So6XCTestC", "tearDown"]
+- ["So6XCTestC", "testExample"]
+- ["So6XCTestC", "testPerformanceExample"]
+- ["So10XCTestCaseC", "Bool"]
+- !private ["So10XCTestCaseC", "KTVersion"]
+- !private ["So10XCTestCaseC", "XCTAssert"]
+- !private ["So10XCTestCaseC", "autoreleasepool"]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "initVersion"]
+- !private ["So10XCTestCaseC", "measure"]
+- !private ["So10XCTestCaseC", "print"]
+- ["So10XCTestCaseC", "setUp"]
+- ["So10XCTestCaseC", "tearDown"]
+- ["So10XCTestCaseC", "testExample"]
+- ["So10XCTestCaseC", "testPerformanceExample"]
+- ["So10XCTestCaseC", ""]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "KTVersion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAssert"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "autoreleasepool"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "compareVersion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "initVersion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "measure"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setUp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tearDown"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "16KTAppUpdateTestsAAC"
+- !private "11KTAppUpdate9KTVersionC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Products/Debug-iphonesimulator/KTAppUpdate.framework/Modules/KTAppUpdate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/XCTest.swiftmodule"
+- "/Users/ucfadmin/Desktop/KTAppUpdate/KTAppUpdate/KTAppUpdate.h"
+- "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Products/Debug-iphonesimulator/KTAppUpdate.framework/Headers/KTAppUpdate-Swift.h"
+- "/Users/ucfadmin/Desktop/KTAppUpdate/Build/Intermediates/KTAppUpdate.build/Debug-iphonesimulator/KTAppUpdate.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "f6e1445edab5fb8ee8c072f024c0bb67"
